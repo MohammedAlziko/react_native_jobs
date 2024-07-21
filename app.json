@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react_native_jobs",
+    "slug": "jobs-mohammed-app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "5fefe6eb-b1cf-4675-88db-85388c20d833"
+      }
+    },
+    "owner": "mohammadoz",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5fefe6eb-b1cf-4675-88db-85388c20d833"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
